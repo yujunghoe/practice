@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import Button from './component/button';
-import Write from './component/write';
+import Button from './component/Button';
+import Write from './component/Write';
 import Home from './pages/Homepage';
-import Writenew from './pages/writenew';
+import Writenew from './pages/Writenew';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
